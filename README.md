@@ -21,7 +21,8 @@
     ☑️1.更新访客链接模块(visitor-info.js) <br>
       增加支持显示ip的类型：isp/business/education/hosting <br>
       采用的访问端点是https://ipinfo.io/widget/demo/服务器ip <br>
-    ☑️2.因为增加显示内容，还更新了nezha@v1.html文件的icon链接，有需要请自行更换
+    ☑️2.因为增加显示内容，还更新了nezha@v1.html文件的icon链接，有需要请自行更换 <br>
+    ☑️3.更新顶部custom-links.js的github链接bug，会与音乐播放器的github链接图标产生重复
 </details>
 
 ## 📑 目录
