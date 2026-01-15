@@ -7,7 +7,7 @@
 
 // ------------------ 自定义链接配置 ------------------
 window.CustomLinks = JSON.stringify([
-  { link: "https://zsb.hidns.vip", name: "Blog", icon: "icon-book" },
+  { link: "https://bosh.zz.ac", name: "Blog", icon: "icon-book" },
   {
     link: "https://bs.zsb.hidns.co",
     name: "Beszel",
@@ -80,6 +80,7 @@ if (document.readyState === 'loading') {
 } else {
   initCustomLinks();
 }
+
 
 
 
